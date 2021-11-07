@@ -1,6 +1,8 @@
 # ppg
 
 The original Project PG
+First started with the vision in mind to create an app that allow each individual to see and analyse all his or her crypto assets in one app across multiple wallets and public keys.
+The app is meant to enable cryto traders/owners to have am customisable overview and analysis tool.
 
 ## Getting Started
 
